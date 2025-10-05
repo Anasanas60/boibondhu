@@ -65,26 +65,18 @@ MySQL 5.7 or higher
 Frontend Setup
 Clone the repository
 
-bash
-
-Copy
 
 Download
 git clone https://github.com/Anasanas60/boibondhu.git
 cd boibondhu
 Install dependencies
 
-bash
-
-Copy
 
 Download
 npm install
 Start development server
 
-bash
 
-Copy
 
 Download
 npm run dev
@@ -106,16 +98,11 @@ Ensure PHP and MySQL are running
 Environment Configuration
 Create .env file in root directory:
 
-env
-
-Copy
-
 Download
 VITE_API_BASE_URL=http://localhost/boibondhu/api
 📁 Project Structure
 text
 
-Copy
 
 Download
 boibondhu/
