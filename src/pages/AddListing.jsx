@@ -80,7 +80,7 @@ const AddListing = () => {
           <input type="text" id="edition" name="edition" value={formData.edition} onChange={handleChange} />
         </div>
         <div className="form-group">
-          <label htmlFor="price">Price (USD) *</label>
+          <label htmlFor="price">Price *</label>
           <input type="number" id="price" name="price" value={formData.price} onChange={handleChange} required min="0" step="0.01" />
         </div>
         <div className="form-group">

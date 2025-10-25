@@ -26,9 +26,9 @@ const Contact = () => {
         You can reach us via the following contact details:
       </p>
       <ul style={{ fontSize: '1.1rem', lineHeight: '1.6', marginBottom: '1rem' }}>
-        <li>Email: support@boibondhu.com</li>
-        <li>Phone: 01626969643</li>
-        <li>Address: Mawlana Bhashani Science And Technology Campus, MBSTU</li>
+        <li>  Email: support@boibondhu.com</li>
+        <li>  Phone: 01626969643</li>
+        <li>  Address: Mawlana Bhashani Science And Technology Campus, MBSTU</li>
       </ul>
       <p style={{ fontSize: '1.1rem', lineHeight: '1.6', marginBottom: '2rem' }}>
         Business Hours: Sun-Wed 9am - 6pm
